@@ -23,7 +23,8 @@
 				"SonarSource.sonarlint-vscode",
 				"vmware.vscode-boot-dev-pack",
 				"MicroProfile-Community.vscode-microprofile-pack",
-				"redhat.vscode-quarkus"
+				"redhat.vscode-quarkus",
+				"GitHub.copilot"
 			],
 			"settings": {
 				"editor.formatOnSave": true,
