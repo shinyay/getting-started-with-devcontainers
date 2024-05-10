@@ -1,6 +1,6 @@
 services:
   playground-java:
-    container_name: 'playground'
+    container_name: 'playground-java'
     hostname: 'java'
     build:
       context: .
