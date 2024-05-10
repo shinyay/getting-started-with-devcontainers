@@ -1,6 +1,6 @@
 services:
   playground-python:
-    container_name: 'playground'
+    container_name: 'playground-python'
     hostname: 'python'
     build:
       context: .
